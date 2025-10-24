@@ -1,0 +1,17 @@
+Lobby
+
+Altar:
+ . Poderia ter três variações, sendo uma de "plantas", "lavar" e "doce"
+
+Livro:
+ . Possivelmente fazer uma animação o livro
+
+Colecionáveis:
+ . Seriam desenhos(?), os quais são ingredientes de uma receita
+ . Lobby 1 não teria
+ . Lobby 2 teria a receita 1 - salada
+ . Lobby 3 teria a receita 2 - sopa
+ . Talvez um lobby de conclusão?
+
+Teste de habilidade:
+ . Fazer coisinhas para brincar, tal qual uma coisa pra puxar com o gancho 
